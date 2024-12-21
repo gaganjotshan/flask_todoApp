@@ -1,5 +1,0 @@
-*.env
-node_modules
-index.js
-package-lock.json
-package.json
